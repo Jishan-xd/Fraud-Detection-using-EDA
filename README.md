@@ -25,7 +25,7 @@ Fraudulent transactions are a critical problem in the financial sector. The obje
 The dataset (`Fraud.csv`) is ~470 MB, too large for GitHub.  
 
 You can download it here:  
-[📥 Download Fraud.csv](YOUR_DATASET_LINK_HERE)
+[📥 Download Fraud.csv](https://drive.google.com/file/d/1JUvAV1qMO_3rwppHNgJunhgblJpyJ72P/view?usp=sharing)
 
 > Place the dataset inside a `data/` folder before running the notebook.
 
@@ -42,8 +42,8 @@ You can download it here:
 
 ### 1. Transaction Distribution
 ![Transaction Distribution]
-<img width="600" height="400" alt="fraud_vs_normal" src="https://github.com/user-attachments/assets/8fe942f1-b181-4b53-a0c9-b961a9c9abad" />
 
+<img width="600" height="400" alt="fraud_vs_normal" src="https://github.com/user-attachments/assets/8fe942f1-b181-4b53-a0c9-b961a9c9abad" />
   
 *Shows the imbalance between normal and fraud transactions.*
 
